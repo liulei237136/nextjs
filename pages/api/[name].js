@@ -4,4 +4,4 @@ module.exports = (req, res)=>{
         query: req.body,
         cookies: req.cookies
     });
-}p
+}
